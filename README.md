@@ -10,8 +10,6 @@ Each dashboard is available as a high-resolution PNG (click the image) and as a 
 
 ---
 
----
-
 # DAR Methodology
 
 All dashboards follow the **DAR** structure (Dashboard, Analysis, Report), a way of organizing an analytical application in three layers, from the broadest view to the most detailed:
