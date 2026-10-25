@@ -10,6 +10,25 @@ Each dashboard is available as a high-resolution PNG (click the image) and as a 
 
 ---
 
+---
+
+# DAR Methodology
+
+All dashboards follow the **DAR** structure (Dashboard, Analysis, Report), a way of organizing an analytical application in three layers, from the broadest view to the most detailed:
+
+- **Dashboard:** KPIs and an overview of the topic, for a quick read of where things stand.
+- **Analysis:** deeper dives by theme, to understand the "why" behind the numbers.
+- **Report:** tabular analyses at the lowest level of detail, for those who need to see the records.
+
+The navigation tabs at the top of each dashboard reflect this structure. This portfolio covers the first two layers:
+
+| Dashboard | DAR layer |
+|---|---|
+| Portfolio Management | Dashboard |
+| Realized Gross Revenue | Dashboard |
+| Expansion Viability Dashboard | Analysis |
+| Revenue by Salesperson | Analysis |
+
 # Dashboards
 
 ## 1) Portfolio Management
